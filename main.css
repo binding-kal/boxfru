@@ -6,7 +6,7 @@
   src: url("../fonts/BurbankBigRegular-Black.woff2") format("woff2"), url("../fonts/BurbankBigRegular-Black.woff") format("woff");
 }
 body {
-  background: url("../img/background.jpg") 0 0;
+  background: url("https://d13pxqgp3ixdbh.cloudfront.net/uploads/1711527929bec806f1c81a1c3eca7b778bf96382c2.jpg") 0 0;
   color: #ffffff;
   font-family: "Burbank", sans-serif;
   font-size: 16px;
